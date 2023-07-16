@@ -1,4 +1,4 @@
-- 👋 Olá! Fou o Gustavo Pamio
+- 👋 Olá! Sou o Gustavo Pamio
 
 <div> 
  
@@ -8,8 +8,8 @@
     <a href="https://wa.me/5511950686466" target="_blank"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" target="_blank"></a>
 ></a>
    
-- 👦 Venho da área da saúde,desde de minha pós estou me fascinando cada vez mas por programação,estatística e IA.
-- 📚 Atualmente me aprofundando em Angular e manipulação de dados com Python e suas bibliotecas(Scikit Learn,Pandas,MatPlotLib).
+- 👦 Venho da área da saúde,desde de minha pós graduação estou me fascinando cada vez mas por programação,estatística e IA.
+- 📚 Atualmente trabalhando como Dev. Júnior e estudando Node,Next,Angular e Infra(AWS e Docker)
 - 🚀 Minha sede pelo conhecimento é insaciável e certamente a tecnologia me trará o que eu quero!
 - 🖥️  Ferramentas que utilizo diariamente para aprendizado e trabalho.
   <div> 
@@ -27,6 +27,7 @@
 
 <div>
   <a href="https://github.com/TajoJapa">
+  <a href="https://gustavo-pamio.vercel.app/">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=tajojapa&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
     <div style="display: inline_block"><br>
 </div>

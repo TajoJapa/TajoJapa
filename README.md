@@ -9,7 +9,7 @@
 ></a>
    
 - 👦 Venho da área da saúde,desde de minha pós graduação estou me fascinando cada vez mas por programação,estatística e IA.
-- 📚 Atualmente trabalhando como Dev. Júnior e estudando Node,Next,Angular e Infra(AWS e Docker)
+- 📚 Atualmente trabalhando como Dev. Júnior 
 - 🚀 Minha sede pelo conhecimento é insaciável e certamente a tecnologia me trará o que eu quero!
 - 🖥️  Ferramentas que utilizo diariamente para aprendizado e trabalho.
   <div> 

@@ -1,35 +1,42 @@
 # 👋 Olá! Eu sou o Gustavo Pamio
 
-Sou um **Desenvolvedor Fullstack Freelancer**, com forte atuação em projetos voltados à **área da saúde**, unindo minha bagagem como profissional da saúde e desenvolvedor de software.
-
-Atualmente, desenvolvo soluções completas, do frontend ao backend, com foco em vendas, performance e usabilidade, especialmente para clínicas, profissionais de saúde e plataformas de educação do esporte.
+**Desenvolvedor Júnior II (React + NestJS)**  
+Atuo em uma **empresa que presta serviços para o governo**, construindo interfaces robustas no **frontend (React)** e APIs escaláveis no **backend (NestJS/Node)**.  
+Gosto de código limpo, performance e entregas consistentes. **Me arrisco com Python** para automações e scripts.
 
 ---
 
 ## 🚀 Sobre mim
 
-- 💼 Freelancer especializado em projetos de tecnologia na área da saúde  
-- 🧠 Fascinado por **programação**, **estatística** e **IA**  
-- 📚 Em constante aprendizado e evolução técnica  
-- 🧰 Ferramentas e tecnologias que utilizo diariamente:
+- 🧑‍💻 Dev **Júnior II** focado em **React** no dia a dia e **NestJS/Node** no backend  
+- 🐍 Explorando **Python** para tarefas pontuais (scripts, ETL simples, automações)  
+- 🧪 Interessa-me **testes (Jest)**, **boas práticas** e **observabilidade**  
+- 📚 Em evolução constante: arquitetura, microsserviços e CI/CD
+
+---
+
+## 🧰 Stack principal
 
 <div style="display: inline_block">
-  <img align="center" alt="Pamio-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-  <img align="center" alt="Pamio-Ts" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
+  <img align="center" alt="Pamio-TS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
+  <img align="center" alt="Pamio-JS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="Pamio-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
-  <img align="center" alt="Pamio-Angular" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original.svg">
+  <img align="center" alt="Pamio-Node" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg">
   <img align="center" alt="Pamio-Nest" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nestjs/nestjs-plain.svg">
+  <img align="center" alt="Pamio-Postgres" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg">
+  <img align="center" alt="Pamio-Mongo" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg">
+  <img align="center" alt="Pamio-Docker" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg">
   <img align="center" alt="Pamio-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
+  <img align="center" alt="Pamio-Git" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg">
   <img align="center" alt="Pamio-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="Pamio-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  <img align="center" alt="Pamio-Git" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg">
 </div>
 
 ---
 
 ## 📫 Contato
 
-Entre em contato para colaborações, freelas ou trocar uma ideia sobre tecnologia e saúde:
+Fala comigo para colaborações, oportunidades ou trocar ideia sobre tech:
 
 <a href="https://instagram.com/pamio_personal" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white"></a>
 <a href="mailto:gustavotajo@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white"></a>
